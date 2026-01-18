@@ -1,0 +1,6 @@
+Flask
+instagrapi
+schedule
+gunicorn
+moviepy
+imageio-ffmpeg
